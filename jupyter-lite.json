@@ -54,7 +54,7 @@
       },
       {
         "extension": "./extension",
-        "load": "static/remoteEntry.7b0dfd91a418a1e7eb37.js",
+        "load": "static/remoteEntry.b2c7a6a835b3d0c95a95.js",
         "mimeExtension": "./mimeExtension",
         "name": "jupyterlab-plotly"
       }
