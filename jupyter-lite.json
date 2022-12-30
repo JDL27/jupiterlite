@@ -6,24 +6,24 @@
     "federated_extensions": [
       {
         "extension": "./extension",
-        "load": "static/remoteEntry.ca1efc27dc965162ca86.js",
+        "load": "static/remoteEntry.d6df56cd69f4640706bc.js",
         "name": "@jupyter-widgets/jupyterlab-manager"
       },
       {
-        "load": "static/remoteEntry.9c506278e545a18a8cc2.js",
+        "load": "static/remoteEntry.cdf08c015a8192358158.js",
         "mimeExtension": "./mimeExtension",
         "name": "@jupyterlab/fasta-extension",
         "style": "./style"
       },
       {
-        "load": "static/remoteEntry.a6d92e11d5e8c375cfe6.js",
+        "load": "static/remoteEntry.f6be43672b078c208aab.js",
         "mimeExtension": "./mimeExtension",
         "name": "@jupyterlab/geojson-extension",
         "style": "./style"
       },
       {
         "extension": "./extension",
-        "load": "static/remoteEntry.bf6b3192a558615425cd.js",
+        "load": "static/remoteEntry.8a4c97071917cf84832f.js",
         "name": "@telamonian/theme-darcula"
       },
       {
@@ -33,17 +33,17 @@
       },
       {
         "extension": "./extension",
-        "load": "static/remoteEntry.e9a229a6deef8e3c895b.js",
+        "load": "static/remoteEntry.99c828c2ee313756f7dc.js",
         "name": "bqplot"
       },
       {
         "extension": "./extension",
-        "load": "static/remoteEntry.5459894d80c1201f22ae.js",
+        "load": "static/remoteEntry.9693baf6fc7fc4c880d2.js",
         "name": "ipycanvas"
       },
       {
         "extension": "./extension",
-        "load": "static/remoteEntry.8c5efb3516d04e6a5bb7.js",
+        "load": "static/remoteEntry.a397b41514ddde5db0df.js",
         "name": "jupyter-leaflet"
       },
       {
@@ -54,9 +54,15 @@
       },
       {
         "extension": "./extension",
-        "load": "static/remoteEntry.b2c7a6a835b3d0c95a95.js",
+        "load": "static/remoteEntry.8391480ec10f46a915ee.js",
         "mimeExtension": "./mimeExtension",
         "name": "jupyterlab-plotly"
+      },
+      {
+        "extension": "./extension",
+        "load": "static/remoteEntry.aa1060b2d1221f8e5688.js",
+        "name": "jupyterlab_pygments",
+        "style": "./style"
       }
     ],
     "fullLabextensionsUrl": "./lab/extensions",
